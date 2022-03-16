@@ -4,6 +4,8 @@ In diesem Proof of Concept wollen wir zeigen, wie eifach es ist, mit GitLab offe
 
 Die folgenden Abschnitte zeigen in weniger als 5 Minuten alle notwendigen Schritte vom Anlegen des Projekts über die synchrone Bearbeitung der Inhalte bis hin zur Veröffentlichung.
 
+[Projekt auf GitLab](https://gitlab.com/axel-klinger/gitlab-fuer-open-educational-resources)
+
 ## Projekt erstellen
 
 Das Ergebnis dieses Beispiels ist ein Kurs mit LiaScript. Weitere Beispiele mit Templates für Hugo, Docsify, Grav oder generierten Inhalten als PDF oder EPUB sind geplant.
