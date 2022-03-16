@@ -10,7 +10,7 @@ Das Ergebnis dieses Beispiels ist ein Kurs mit LiaScript. Weitere Beispiele mit 
 
 Einzige Voraussetzung ist ein Account auf gitlab.com oder einer GitLab Instanz die öffentliche Projekte erlaubt.
 
-video
+!?[Kurs mit LiaScript](https://gitlab.com/axel-klinger/gitlab-fuer-open-educational-resources/-/raw/main/GitLab-OER-Teil1.mp4)
 
 ## Inhalte bearbeiten
 
@@ -18,7 +18,7 @@ video
 
 Zeigt die Bearbeitung von Markdown Dateien auf GitLab mit HedgeDoc/CodiLIA.
 
-video
+!?[GitLab und CodiLIA](https://gitlab.com/axel-klinger/gitlab-fuer-open-educational-resources/-/raw/main/GitLab-OER-Teil2.m4v)
 
 ## Veröffentlichen auf OERSI
 
